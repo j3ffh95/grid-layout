@@ -42,6 +42,7 @@ p {
   height: 210px;
   background-size: cover;
   background-attachment: fixed;
+  transition: all 0.5s ease-in;
 }
 
 .container > div:hover {
